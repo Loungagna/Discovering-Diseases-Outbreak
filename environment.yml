@@ -2,7 +2,7 @@ name: discovering-disease-outbreaks
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
+  - python=3.7.6
   - pandas=0.25.0
   - numpy=1.16.0
   - scikit-learn=0.20.3
